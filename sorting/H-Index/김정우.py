@@ -1,12 +1,12 @@
 def solution(citations: list):
     answer = 0
     count = 0
-    for n in range(len(citations) + 1, 0, -1):
+    for h in range(len(citations) + 1, 0, -1):
         for c in citations:
-            if c >= n:
+            if c >= h:
                 count += 1
-            if count >= n:
-                return n
+            if count >= h:
+                return h
         count = 0
     return answer
 
