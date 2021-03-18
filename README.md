@@ -4,4 +4,4 @@ AIFFEL 대전 코딩마스터 풀잎 2조의 알고리즘 문제 풀이를 정�
 ## Problems
 
 ### 정렬
-- [H-Index](./sorting/H-Index)
+- [H-Index](./sorting/programmers_42747)
