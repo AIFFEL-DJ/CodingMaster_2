@@ -1,4 +1,4 @@
-# H-Index
+# 가사 검색
 
 프로그래머스의 가사 검색 문제입니다. ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60060))
 
