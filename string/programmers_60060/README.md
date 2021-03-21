@@ -2,6 +2,8 @@
 
 프로그래머스의 가사 검색 문제입니다. ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60060))
 
++) 효율성 테스트에 모두 통과하려면 Trie 자료구조를 사용해야 한다고 함(선택)
+
 ## Solutions
 - [이영석](./이영석.py)
 - [강민정](./강민정.py)
