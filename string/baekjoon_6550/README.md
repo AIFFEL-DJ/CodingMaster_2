@@ -1,6 +1,6 @@
-# 찾기
+# 부분 문자열
 
-백준의 찾기 문제입니다. ([문제 링크](https://www.acmicpc.net/problem/1786))
+백준의 부분 문자열 문제입니다. ([문제 링크](https://www.acmicpc.net/problem/6550))
 
 ## Solutions
 - [이영석](./이영석.py)
